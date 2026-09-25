@@ -15,6 +15,6 @@
 
 直接開啟 `index.html`，或透過任意靜態網站伺服器執行。
 
-目前的私人部署版本：
+## 線上遊戲
 
-https://audit-ballpark-quiz-2026.ku941128.chatgpt.site
+https://shadow941128.github.io/audit-ballpark/
