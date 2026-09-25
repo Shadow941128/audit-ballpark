@@ -1,0 +1,3956 @@
+[
+  {
+    "id": "ch01-q01",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 1,
+    "question": "ACL為一項電腦輔助查核技術（Computer-Assisted Audit Techniques），其通常 可用於執行下列哪種查核程序？",
+    "options": [
+      {
+        "key": "A",
+        "text": "測試交易明細及餘額"
+      },
+      {
+        "key": "B",
+        "text": "分析性程序"
+      },
+      {
+        "key": "C",
+        "text": "測試一般控制"
+      },
+      {
+        "key": "D",
+        "text": "使用抽樣程式選取查核資料"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch01-q02",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 2,
+    "question": "以下何者非為ACL AI人工智慧新功能？",
+    "options": [
+      {
+        "key": "A",
+        "text": "監督式機器學習－培訓（Train）、預測（Predict）"
+      },
+      {
+        "key": "B",
+        "text": "非監督式機器學習－分群（Cluster）"
+      },
+      {
+        "key": "C",
+        "text": "分類（Classify）與彙總（Summarize）"
+      },
+      {
+        "key": "D",
+        "text": "異常偏離（Outliers）快速識別數字段中的統計異常值"
+      },
+      {
+        "key": "E",
+        "text": "模糊比對（Fuzzy join）"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch01-q03",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 3,
+    "question": "下列選項有關ACL的敘述，哪一項不是真的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "是電腦輔助審計工具"
+      },
+      {
+        "key": "B",
+        "text": "可連結SQL資料庫修改資料"
+      },
+      {
+        "key": "C",
+        "text": "可一次分析來自不同資訊系統平台資料的差異"
+      },
+      {
+        "key": "D",
+        "text": "可將資料分析過程留下記錄（Log）"
+      },
+      {
+        "key": "E",
+        "text": "不受檔案大小的限制，進行資料分析工作"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch01-q04",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 4,
+    "question": "ACL提供強大的資料整理和操作功能，其所具備的主要功能以下何者為真？",
+    "options": [
+      {
+        "key": "A",
+        "text": "在個人電腦上讀取未轉換格式的大型主機資料與SAP資料"
+      },
+      {
+        "key": "B",
+        "text": "確保來源資料的完整性與安全性"
+      },
+      {
+        "key": "C",
+        "text": "處理多種資料型態"
+      },
+      {
+        "key": "D",
+        "text": "迅速的處理任何大小的檔案"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch01-q05",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 5,
+    "question": "ACL Project檔案的副檔名是「.acl」，一個ACL Project由以下何者組成？",
+    "options": [
+      {
+        "key": "A",
+        "text": "資料表（Table）"
+      },
+      {
+        "key": "B",
+        "text": "批次作業（Scripts）"
+      },
+      {
+        "key": "C",
+        "text": "工作區（Workspaces）"
+      },
+      {
+        "key": "D",
+        "text": "資料夾（Folder）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch01-q06",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 6,
+    "question": "查核人員面對資訊電腦化之受查客戶，為確保在資訊處理時使用正確的主檔、 資料庫與程式，則應執行下列哪一項測試？ 【 100年高等會計師考題】",
+    "options": [
+      {
+        "key": "A",
+        "text": "有效性測試（Validation Test）"
+      },
+      {
+        "key": "B",
+        "text": "順序性測試（Sequence Test）"
+      },
+      {
+        "key": "C",
+        "text": "資料合理性測試（Data Reasonableness Test）"
+      },
+      {
+        "key": "D",
+        "text": "完整性測試（Completeness Test）"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch01-q07",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 7,
+    "question": "不論企業是否採用電腦資訊系統，從審計的觀點，哪些基本 原則是不會改變 ？ ①證實測試與控制測試的設計與執行 ②內部控制目標③財務報表聲明 ④ 固 有 風 險 及 控 制 風 險 的 考 量 ⑤審 計 技 術 【100年 高 等 會 計 師 考 題 】",
+    "options": [
+      {
+        "key": "A",
+        "text": "①②③④"
+      },
+      {
+        "key": "B",
+        "text": "①③④⑤"
+      },
+      {
+        "key": "C",
+        "text": "僅②③"
+      },
+      {
+        "key": "D",
+        "text": "僅②③④"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch01-q08",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 8,
+    "question": "以下哪個非持續性稽核可行的原因？",
+    "options": [
+      {
+        "key": "A",
+        "text": "科技進步"
+      },
+      {
+        "key": "B",
+        "text": "人工智慧系統的進步"
+      },
+      {
+        "key": "C",
+        "text": "即時資料的需求"
+      },
+      {
+        "key": "D",
+        "text": "資料連續性的需求"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch01-q09",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 9,
+    "question": "下列何者非電腦輔助稽核軟體工具出現後，所產生的全新觀念？",
+    "options": [
+      {
+        "key": "A",
+        "text": "持續性稽核"
+      },
+      {
+        "key": "B",
+        "text": "定期查核"
+      },
+      {
+        "key": "C",
+        "text": "全面性稽核"
+      },
+      {
+        "key": "D",
+        "text": "風險管理"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch01-q10",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 10,
+    "question": "假設建立一個能夠辨識汽車的模型系統，在照片資料集共有100萬張照片，其 中有1000張已標註汽車貼標的照片，接下來可用哪種學習方法找出剩下的照片 當中是否有汽車？",
+    "options": [
+      {
+        "key": "A",
+        "text": "監督式學習（Supervised learning）"
+      },
+      {
+        "key": "B",
+        "text": "非監督式學習（Unsupervised learning）"
+      },
+      {
+        "key": "C",
+        "text": "半監督式學習（Semi-supervised learning）"
+      },
+      {
+        "key": "D",
+        "text": "增強式學習（Reinforcement learning）"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch01-q11",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 11,
+    "question": "新型態的人工智慧通用稽核軟體通常是使用何種語言來開發？",
+    "options": [
+      {
+        "key": "A",
+        "text": "C語言"
+      },
+      {
+        "key": "B",
+        "text": "BASIC語言"
+      },
+      {
+        "key": "C",
+        "text": "Python語言"
+      },
+      {
+        "key": "D",
+        "text": "Jave語言"
+      },
+      {
+        "key": "E",
+        "text": "R語言"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch01-q12",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 12,
+    "question": "下面哪一套通用稽核軟體最早具備影像探探勘的人工智慧稽核指令功能？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ACL 通用稽核軟體"
+      },
+      {
+        "key": "B",
+        "text": "IDEA 通用稽核軟體"
+      },
+      {
+        "key": "C",
+        "text": "JCAATs 通用稽核軟體"
+      },
+      {
+        "key": "D",
+        "text": "Picalo 通用稽核軟體"
+      },
+      {
+        "key": "E",
+        "text": "Excel 試算表軟體"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch01-q13",
+    "chapter": 1,
+    "chapterTitle": "ACL電腦稽核軟體的第一印象",
+    "number": 13,
+    "question": "下面哪一套通用稽核軟體最早具備文字探勘的人工智慧稽核指令功能？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ACL 通用稽核軟體"
+      },
+      {
+        "key": "B",
+        "text": "IDEA 通用稽核軟體"
+      },
+      {
+        "key": "C",
+        "text": "JCAATs 通用稽核軟體"
+      },
+      {
+        "key": "D",
+        "text": "Picalo 通用稽核軟體"
+      },
+      {
+        "key": "E",
+        "text": "Excel 試算表軟體"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch02-q01",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 1,
+    "question": "請選擇哪一項是ACL可以讀取的檔案格式（Format）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Microsoft Excel"
+      },
+      {
+        "key": "B",
+        "text": "XML"
+      },
+      {
+        "key": "C",
+        "text": "Report file"
+      },
+      {
+        "key": "D",
+        "text": "Flat File"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch02-q02",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 2,
+    "question": "下列何者非通用稽核軟體（如ACL）之特性？",
+    "options": [
+      {
+        "key": "A",
+        "text": "處理大量資料能力"
+      },
+      {
+        "key": "B",
+        "text": "差異性資料分析"
+      },
+      {
+        "key": "C",
+        "text": "要求具備電腦程式撰寫能力"
+      },
+      {
+        "key": "D",
+        "text": "唯讀"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch02-q03",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 3,
+    "question": "電腦稽核專案規劃方法通常採用六個階段，以下順序何者為真？",
+    "options": [
+      {
+        "key": "A",
+        "text": "獲得、讀取、規劃、驗證、分析和報告"
+      },
+      {
+        "key": "B",
+        "text": "規劃、獲得、讀取、驗證、分析和報告"
+      },
+      {
+        "key": "C",
+        "text": "規劃、讀取、獲得、驗證、分析和報告"
+      },
+      {
+        "key": "D",
+        "text": "獲得、規劃、讀取、驗證、分析和報告"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch02-q04",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 4,
+    "question": "使用Excel作為匯入資料的來源檔，以下何者是正確的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "可以有合併儲存格"
+      },
+      {
+        "key": "B",
+        "text": "允許彙總欄位等影響資料匯入ACL的格式"
+      },
+      {
+        "key": "C",
+        "text": "存在Excel內的欄位格式型態，也會影響資料匯入ACL欄位的型態，必 須預先調整"
+      },
+      {
+        "key": "D",
+        "text": "無須調整兩個比較檔的關鍵欄位長度"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch02-q05",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 5,
+    "question": "當受查公司使用電腦化系統進行會計處理時，會計師若採用通用審計軟體 （Generalized Audit Software）來查核其財務報表，大概會如何進行？ 【100年高等會計師考題】",
+    "options": [
+      {
+        "key": "A",
+        "text": "考慮增加交易的證實測試（Substantive Tests），以取代分析性複核程序"
+      },
+      {
+        "key": "B",
+        "text": "藉由自動檢核碼（Self-checking Digits）和雜項總計（Hash Totals） 來驗證資料是否正確"
+      },
+      {
+        "key": "C",
+        "text": "降低所需控制測試（Tests of Controls）的程度"
+      },
+      {
+        "key": "D",
+        "text": "在對查核客戶的軟體特性了解有限的情況下， 到客戶電腦系統中存 取（Access）所儲存的交易資訊"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch02-q06",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 6,
+    "question": "電腦輔助查核技術可用於執行查核程序，使用稽核軟體重新計算利息或自電腦 記錄篩選一定金額以上之銷貨交易，係屬何種查核程序？ 【105年高等會計師考題】",
+    "options": [
+      {
+        "key": "A",
+        "text": "分析性程序"
+      },
+      {
+        "key": "B",
+        "text": "測試一般控制"
+      },
+      {
+        "key": "C",
+        "text": "測試應用控制"
+      },
+      {
+        "key": "D",
+        "text": "測試交易明細及餘額"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch02-q07",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 7,
+    "question": "查核人員使用電腦輔助查核技術之首要步驟為何？【105年高等會計師考題】",
+    "options": [
+      {
+        "key": "A",
+        "text": "瞭解擬查核資料庫之資料表關連性"
+      },
+      {
+        "key": "B",
+        "text": "辨認擬查核之特定檔案或資料庫"
+      },
+      {
+        "key": "C",
+        "text": "確認受查者檔案之內容及可存取性"
+      },
+      {
+        "key": "D",
+        "text": "設定使用電腦輔助查核技術之目的"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch02-q08",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 8,
+    "question": "下列有關顯著風險（Significant Risk）之敘述，何者錯誤？ 【104年高等會計師考題】",
+    "options": [
+      {
+        "key": "A",
+        "text": "查核人員於判斷所辨認之風險是否為顯著風險時，應考慮與該項風險有 關之控制所能降低風險之效果"
+      },
+      {
+        "key": "B",
+        "text": "經由系統自動處理之例行且非複雜交易較不會產生顯著風險"
+      },
+      {
+        "key": "C",
+        "text": "管理階層踰越控制之風險，存於所有受查者中，且為導因於舞弊之重 大不實表達之顯著風險"
+      },
+      {
+        "key": "D",
+        "text": "當對某一顯著風險之因應方式僅為證實程序時，該等程序至少應包含 證實分析性程序"
+      },
+      {
+        "key": "E",
+        "text": "查核人員所辨認顯著風險之相關控制於本年度並未發生改變，如擬予 已信賴，可直接採用上年度控制測試之查核證據，無須於本年度再進 行控制測試"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch02-q09",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 9,
+    "question": "多數人的生活經驗中，都有接過行銷電話、簡訊、詐騙電話，重視人權的歐 盟，在2018年5月25日正式執行「一般資料保護規則」（GDPR）。這項法 規的基礎建立在「被遺忘權（right to be forgotten）」，是一種在歐盟付諸實 踐的人權概念，可以要求控制資料的一方，刪除所有個人資料的任何連結 （link）、副本（copies）或複製品（replication）；還有「資料可攜權（Right to data portability）」以下請問何者不包含在GDPR之保護項目之內？",
+    "options": [
+      {
+        "key": "A",
+        "text": "IP位置"
+      },
+      {
+        "key": "B",
+        "text": "行動裝置ID"
+      },
+      {
+        "key": "C",
+        "text": "問卷表單"
+      },
+      {
+        "key": "D",
+        "text": "視網膜掃描"
+      },
+      {
+        "key": "E",
+        "text": "以上皆屬GDPR之保護項目"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch02-q10",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 10,
+    "question": "會計師擬使用電腦審計工具來查核一家以電子商務為主的公司。下列敘述， 何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "因通用審計軟體（generalized audit software）係為餘額測試而設計，故 會計師不可能使用通用審計軟體來查核以電子商務為主的客戶"
+      },
+      {
+        "key": "B",
+        "text": "會計師可以使用標註與追蹤法（tagging and tracing），但只能用來查核 與受查客戶之處理程序的相關資訊"
+      },
+      {
+        "key": "C",
+        "text": "整體測試設施（integrated test facility）非常適合於電子商務的查核工作 上"
+      },
+      {
+        "key": "D",
+        "text": "以電子商務為主的客戶，不宜用測試資料（test data）法來查核"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch02-q11",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 11,
+    "question": "王稽核依查核需求已獲得保險進件明細表，他依據資料內容做檢核及過濾， 請問此為專案規劃方法六個階段的哪個階段？",
+    "options": [
+      {
+        "key": "A",
+        "text": "專案規劃"
+      },
+      {
+        "key": "B",
+        "text": "獲得資料"
+      },
+      {
+        "key": "C",
+        "text": "讀取資料"
+      },
+      {
+        "key": "D",
+        "text": "驗證資料"
+      },
+      {
+        "key": "E",
+        "text": "報表輸出"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch02-q12",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 12,
+    "question": "查核人員瞭解受查者電腦系統一般控制時，最不可能採用下列那一項程序？",
+    "options": [
+      {
+        "key": "A",
+        "text": "檢查電腦系統相關的文件 【110年高等會計師考題改編】"
+      },
+      {
+        "key": "B",
+        "text": "訪談受查者員工"
+      },
+      {
+        "key": "C",
+        "text": "對一筆採購交易執行穿透測試（walk through test）"
+      },
+      {
+        "key": "D",
+        "text": "複核受查者資訊系統員工填寫的問卷"
+      },
+      {
+        "key": "E",
+        "text": "以上程序均可執行"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch02-q13",
+    "chapter": 2,
+    "chapterTitle": "專案規劃與簡易案例",
+    "number": 13,
+    "question": "當會計師判斷企業某項控制作業無效時，最可能採取下列何種因應方式？",
+    "options": [
+      {
+        "key": "A",
+        "text": "提高偵查風險的評估水準 【110年高等會計師考題改編】"
+      },
+      {
+        "key": "B",
+        "text": "提高固有風險的評估水準"
+      },
+      {
+        "key": "C",
+        "text": "擴大控制測試的範圍與程度"
+      },
+      {
+        "key": "D",
+        "text": "擴大證實程序的範圍與程度"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch03-q01",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 1,
+    "question": "ACL產生報表的方式，哪一項敘述是正確的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ACL可以產生XBRL的報表格式"
+      },
+      {
+        "key": "B",
+        "text": "ACL可以產生Crystal Report Template"
+      },
+      {
+        "key": "C",
+        "text": "ACL可以產生IBM EBCDIC Text File檔"
+      },
+      {
+        "key": "D",
+        "text": "ACL可以產生SAS File檔"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch03-q02",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 2,
+    "question": "當定義Source Data中日期欄位資料時，要如何正確設定欄位型態中的日期格 式？ 2002-12-20 2004-07-05",
+    "options": [
+      {
+        "key": "A",
+        "text": "YY-MM-DD"
+      },
+      {
+        "key": "B",
+        "text": "MMDDYYYY"
+      },
+      {
+        "key": "C",
+        "text": "DDMMMYYYY"
+      },
+      {
+        "key": "D",
+        "text": "YY/MM/DD"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch03-q03",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 3,
+    "question": "ACL對數值運算採用定點計算（Fixed Point Arithmetic）方法，而不用浮點計算 （Floating Point Numbers）方法。為了預防不必要的四捨五入，我們必須調整算 式，以避免截斷重要小數位數。試問下列哪項運算式的表達方式與其答案的呈 現是正確的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "1,000,000 * 2.00 / 3.00 = 666,666.6667"
+      },
+      {
+        "key": "B",
+        "text": "(1,000,000 * 1.00) * 2.00 / 3 = 666,667"
+      },
+      {
+        "key": "C",
+        "text": "1,000,000 * 2.0/ 3 = 666,667"
+      },
+      {
+        "key": "D",
+        "text": "1,000,000 * 2.00 / 3 = 666,666.67"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch03-q04",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 4,
+    "question": "ACL對 下 列 檔 案 進 行 格 式 定 義 時 ， 哪 些 檔 案 會 自 動 提 供 欄 位 格 式 定 義 （Table Layout）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "DB2"
+      },
+      {
+        "key": "B",
+        "text": "dBase File"
+      },
+      {
+        "key": "C",
+        "text": "Excel File / Access File"
+      },
+      {
+        "key": "D",
+        "text": "ODBC Source file"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch03-q05",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 5,
+    "question": "ACL對數值運算採用以下哪種方法：",
+    "options": [
+      {
+        "key": "A",
+        "text": "兩點運算"
+      },
+      {
+        "key": "B",
+        "text": "定點運算"
+      },
+      {
+        "key": "C",
+        "text": "浮點運算"
+      },
+      {
+        "key": "D",
+        "text": "數點運算"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch03-q06",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 6,
+    "question": "為了防止員工利用供應商以未授權方式將資金轉予自己，可利用下列哪些相同 元素進行舞弊之查核？1.地址、2.電話號碼、3.EIN、4.銀行帳戶、5.緊急聯絡地 址、6.SNAP",
+    "options": [
+      {
+        "key": "A",
+        "text": "地址、電話號碼"
+      },
+      {
+        "key": "B",
+        "text": "EIN、銀行帳戶、緊急聯絡地址"
+      },
+      {
+        "key": "C",
+        "text": "地址、電話號碼、緊急聯絡地址、SNAP"
+      },
+      {
+        "key": "D",
+        "text": "地址、電話號碼、EIN、銀行帳戶、緊急聯絡地址"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch03-q07",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 7,
+    "question": "電腦資訊系統之應用控制包括建立處理電腦資料檔控制，以合理確保下列何一 事項？",
+    "options": [
+      {
+        "key": "A",
+        "text": "交易已適當轉換為機器可讀取之型態"
+      },
+      {
+        "key": "B",
+        "text": "交易（包括系統自動產生之交易）業經電腦適當處理"
+      },
+      {
+        "key": "C",
+        "text": "錯誤交易業經拒絕或更正"
+      },
+      {
+        "key": "D",
+        "text": "處理結果之正確性"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch03-q08",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 8,
+    "question": "電腦審計人員在測試受查者應收帳款帳齡報表的可靠性時，經常採用查核人員 可以控制或自行設計之程式，再次處理實際交易資料，將處理結果與受查者的 帳齡報表加以比較，此種電腦輔助查核技術為何？",
+    "options": [
+      {
+        "key": "A",
+        "text": "資料測試法（test data）"
+      },
+      {
+        "key": "B",
+        "text": "平行模擬（parallel simulation）"
+      },
+      {
+        "key": "C",
+        "text": "整體測試法（integrated test facility）"
+      },
+      {
+        "key": "D",
+        "text": "標記與追蹤（tagging and tracing）"
+      },
+      {
+        "key": "E",
+        "text": "回歸測試法（regression testing）"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch03-q09",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 9,
+    "question": "查核SAP ERP系統供應商資料管理有效性時，可能使用到哪些資料檔？",
+    "options": [
+      {
+        "key": "A",
+        "text": "LFBK（供應商銀行帳號明細檔）"
+      },
+      {
+        "key": "B",
+        "text": "BSAK（付款明細檔）"
+      },
+      {
+        "key": "C",
+        "text": "LFA1（廠商主檔）"
+      },
+      {
+        "key": "D",
+        "text": "PA0009（員工銀行帳號明細檔）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch03-q10",
+    "chapter": 3,
+    "chapterTitle": "資料取得與格式定義",
+    "number": 10,
+    "question": "ACL匯入時若採用ODBC方式匯入資料，以下哪一種資料型態需要自行定義？",
+    "options": [
+      {
+        "key": "A",
+        "text": "文字型態"
+      },
+      {
+        "key": "B",
+        "text": "數字型態"
+      },
+      {
+        "key": "C",
+        "text": "日期型態"
+      },
+      {
+        "key": "D",
+        "text": "以上均需自行定義"
+      },
+      {
+        "key": "E",
+        "text": "以上均不需自行定義"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch04-q01",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 1,
+    "question": "當您利用ACL定義從系統下載的一份薪資報表檔時，人事確定告訴您，每位員 工在當月份只會有一筆薪水發放記錄，請問您要進行下列哪一項測試來確認？",
+    "options": [
+      {
+        "key": "A",
+        "text": "資料檔有效性驗證（Validity）"
+      },
+      {
+        "key": "B",
+        "text": "測試筆數及金額欄位加總是否和系統報表一致"
+      },
+      {
+        "key": "C",
+        "text": "日期範圍有效驗證"
+      },
+      {
+        "key": "D",
+        "text": "缺漏項測試"
+      },
+      {
+        "key": "E",
+        "text": "重複項測試"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch04-q02",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 2,
+    "question": "使用哪一項指令，可以迅速挑選出遺失項目或範圍？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Classify Command"
+      },
+      {
+        "key": "B",
+        "text": "Stratify Command"
+      },
+      {
+        "key": "C",
+        "text": "Count Command"
+      },
+      {
+        "key": "D",
+        "text": "Statistic Command"
+      },
+      {
+        "key": "E",
+        "text": "Gap Command"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch04-q03",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 3,
+    "question": "下列哪一項對Summarize指令的敘述是不正確的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "指令在執行前，需要Presort"
+      },
+      {
+        "key": "B",
+        "text": "它可以使用一個以上的key field"
+      },
+      {
+        "key": "C",
+        "text": "執行產生的彙總資料可以超過50,000筆以上"
+      },
+      {
+        "key": "D",
+        "text": "主要工作區域在RAM"
+      },
+      {
+        "key": "E",
+        "text": "只有產生Key Field, Count, Subtotal field"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch04-q04",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 4,
+    "question": "當我們使用Duplicate指令來對應付帳款資料測試其是否重複付款的情形，以下 是該檔案所擁有的欄位： 甲、帳單號碼 ㇠、產品代號 丙、帳單日期 丁、產品數量 戊、廠商代號 己、應付帳款金額 請選出比較重複性的關鍵欄位最佳者？",
+    "options": [
+      {
+        "key": "B",
+        "text": "帳單號碼、產品代號"
+      },
+      {
+        "key": "C",
+        "text": "帳單日期、產品代號、產品數量、及廠商代號"
+      },
+      {
+        "key": "D",
+        "text": "產品代號、產品數量"
+      },
+      {
+        "key": "E",
+        "text": "帳單日期、廠商代號"
+      },
+      {
+        "key": "F",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch04-q05",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 5,
+    "question": "剖析（Profile）指令提供對一個或多個數值欄位彙總統計資料，該指令提供之 資料以下何者為真？",
+    "options": [
+      {
+        "key": "A",
+        "text": "加總金額（Total Value）"
+      },
+      {
+        "key": "B",
+        "text": "絕對值（Absolute Value）"
+      },
+      {
+        "key": "C",
+        "text": "最小值（Minimum Value）"
+      },
+      {
+        "key": "D",
+        "text": "最大值（Maximum Value）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch04-q06",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 6,
+    "question": "世界各國都禁止向外國官員和政治人物行賄，若要打擊賄賂和腐敗行為，執行 數據分析是最具完整性和準確性的方法。下列何者非屬於反賄賂和反腐敗 （ABAC）之查核項目？",
+    "options": [
+      {
+        "key": "A",
+        "text": "拆單購買查核"
+      },
+      {
+        "key": "B",
+        "text": "高風險國家交易之查核"
+      },
+      {
+        "key": "C",
+        "text": "頻繁更改供應商檔案"
+      },
+      {
+        "key": "D",
+        "text": "供應商建立與核准之職權分離"
+      },
+      {
+        "key": "E",
+        "text": "按資產類型分析固定資產"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch04-q07",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 7,
+    "question": "銀行業是一個受到嚴格監管的行業，必須遵守政府與國際之規定，以減少犯罪 活動。為了防止銀行員工與客戶之間進行舞弊犯罪，下列何者非查核人員應執 行查核之範圍？",
+    "options": [
+      {
+        "key": "A",
+        "text": "抵押品之貸款查核"
+      },
+      {
+        "key": "B",
+        "text": "對貸款進行臨時分析"
+      },
+      {
+        "key": "C",
+        "text": "利用SDN與交易名單進行比對"
+      },
+      {
+        "key": "D",
+        "text": "員工過度休假之查核"
+      },
+      {
+        "key": "E",
+        "text": "驗證使用帳戶之身分"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch04-q08",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 8,
+    "question": "下列何者非內部控制的主要目標？",
+    "options": [
+      {
+        "key": "A",
+        "text": "可靠的財務報導"
+      },
+      {
+        "key": "B",
+        "text": "有效率及有效果之營運"
+      },
+      {
+        "key": "C",
+        "text": "有關法令的遵循"
+      },
+      {
+        "key": "D",
+        "text": "經營權的確保"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch04-q09",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 9,
+    "question": "當發現有遺失項目時，以下敘述何者有誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "有些遺失值的存在是沒問題的，如由於有作廢支票，支票號碼的序號跳 號了"
+      },
+      {
+        "key": "B",
+        "text": "銷貨發票交易檔中，銷貨發票序號是可以有跳號現象出現的"
+      },
+      {
+        "key": "C",
+        "text": "資料表中有些欄位應該永遠有資料，不過有些欄位則不一定，如顧客資 料檔，顧客編號不能留白，但第二地址欄位則可以是空白"
+      },
+      {
+        "key": "D",
+        "text": "在重要的欄位發現有遺失值時，宜與資料提供者聯繫、確認"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch04-q10",
+    "chapter": 4,
+    "chapterTitle": "資料驗證技術",
+    "number": 10,
+    "question": "進行個資檔案管理查核時需要取得個人電腦檔案清單，以下何方式取得較佳？",
+    "options": [
+      {
+        "key": "A",
+        "text": "針對重要個資檔案伺服器或抽樣受查的個人電腦，開啟DOS命令提示字 元視窗透過DIR /A/S >產生個人電腦檔案清單後取得"
+      },
+      {
+        "key": "B",
+        "text": "請資訊單位人員提供"
+      },
+      {
+        "key": "C",
+        "text": "請受查單位自行提供"
+      },
+      {
+        "key": "D",
+        "text": "委請外部專業單位進行稽核"
+      },
+      {
+        "key": "E",
+        "text": "以上皆可"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch05-q01",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 1,
+    "question": "在ACL中，右列那項指令無法產生分析圖表？",
+    "options": [
+      {
+        "key": "A",
+        "text": "彙總（Summarize）"
+      },
+      {
+        "key": "B",
+        "text": "分層（Stratify）"
+      },
+      {
+        "key": "C",
+        "text": "分類（Classify）"
+      },
+      {
+        "key": "D",
+        "text": "帳齡（Age）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch05-q02",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 2,
+    "question": "當我們對2000年進行商品銷貨收入分析，利用ACL Age指令，分別展開每 一季的收入總額(0,91,182,273,366)，請問那一季的收入最高？ Days Count Percent of Count Percent of Field Invoice Amount 0-90 105 30.97% 20.06% 60,303.17 91-181 72 21.24% 40.59% 122,049.43 182-272 83 24.48% 11.7% 35,177.21 273-366 79 23.3% 27.65% 83,152.23 Totals 339 100% 100% 300,682.04",
+    "options": [
+      {
+        "key": "A",
+        "text": "第一季"
+      },
+      {
+        "key": "B",
+        "text": "第二季"
+      },
+      {
+        "key": "C",
+        "text": "第三季"
+      },
+      {
+        "key": "D",
+        "text": "第四季"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch05-q03",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 3,
+    "question": "在執行分層分析指令（Stratify）前，可以透過哪一項指令取得最大值及最小值 的變數（Min1&Max1）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Statistic"
+      },
+      {
+        "key": "B",
+        "text": "Count"
+      },
+      {
+        "key": "C",
+        "text": "Classify"
+      },
+      {
+        "key": "D",
+        "text": "Age"
+      },
+      {
+        "key": "E",
+        "text": "Gap"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch05-q04",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 4,
+    "question": "下列哪些指令可以用來依照不同數值資料範圍進行彙總比較？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Statistics"
+      },
+      {
+        "key": "B",
+        "text": "Stratify"
+      },
+      {
+        "key": "C",
+        "text": "Verify"
+      },
+      {
+        "key": "D",
+        "text": "Duplicate"
+      },
+      {
+        "key": "E",
+        "text": "Sort"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch05-q05",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 5,
+    "question": "下列哪一項對Age指令的敘述為真？",
+    "options": [
+      {
+        "key": "A",
+        "text": "是針對數值金額範圍來彙總資料"
+      },
+      {
+        "key": "B",
+        "text": "是針對期間範圍來彙總資料"
+      },
+      {
+        "key": "C",
+        "text": "是依照文字型類別彙總資料"
+      },
+      {
+        "key": "D",
+        "text": "使用前必須要先執行Duplicate指令，以得到最大及最小值"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch05-q06",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 6,
+    "question": "當查核某一受查者總帳系統後，發現該受查者的某一資訊人員同時有切立、核 准傳票並過帳之系統權限，下列查核程序何者最為有效？",
+    "options": [
+      {
+        "key": "A",
+        "text": "因該員非為會計人員，無舞弊之動機，故無須進一步查核"
+      },
+      {
+        "key": "B",
+        "text": "詢問該資訊人員是否有切立異常之傳票"
+      },
+      {
+        "key": "C",
+        "text": "詢問會計主管是否有發現異常之交易，並了解內部稽核主管之稽核結果"
+      },
+      {
+        "key": "D",
+        "text": "自資料庫下載所有總帳分錄，複核有無該資訊人員切立、核准或過帳之 交易"
+      },
+      {
+        "key": "E",
+        "text": "自資料庫下載權限設定檔，檢視是否有權限衝突的情況"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch05-q07",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 7,
+    "question": "在對某銀行的審計中，內部稽核發現授信部門主管核准某企業集團所屬各獨立 機構發放的貸款，違反了常規政策。內部稽核認為這一行為可能是有意的，因 為該授信主管與控制該企業集團的一個主要負責人有密切關係，該稽核師應當：",
+    "options": [
+      {
+        "key": "A",
+        "text": "將利益衝突和違規行為告知管理當局，並建議作進一步調查"
+      },
+      {
+        "key": "B",
+        "text": "將違規行為報告給法務部門，因為這構成了銀行控制制度的重大缺陷"
+      },
+      {
+        "key": "C",
+        "text": "如果該授信主管同意採取改正措施，則可以不報告該違規行為"
+      },
+      {
+        "key": "D",
+        "text": "擴大審計範圍，確定授信主管是否有舞弊行為，並將進一步調查結果向 管理當局控告"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch05-q08",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 8,
+    "question": "公司從採購到付款的週期，需要考慮到復雜的授權流程。若是錯誤的付款或供 應商和員工之間發生舞弊事件，可能導致公司數百萬的損失。下列何者非屬於 查核人員對於供應商管理之控制風險？",
+    "options": [
+      {
+        "key": "A",
+        "text": "供應商的建立與審核之職權分離"
+      },
+      {
+        "key": "B",
+        "text": "公司人員過度休假之情形"
+      },
+      {
+        "key": "C",
+        "text": "供應商所在地為高風險國家地區"
+      },
+      {
+        "key": "D",
+        "text": "供應商之基本資料頻繁更改"
+      },
+      {
+        "key": "E",
+        "text": "未經授權的人員對供應商基本資料進行更改"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch05-q09",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 9,
+    "question": "下列何者非Benford指令應用的範圍？",
+    "options": [
+      {
+        "key": "A",
+        "text": "可用於指定數值範圍，或不是以機率分布出現的數據，如常態分布之 處。"
+      },
+      {
+        "key": "B",
+        "text": "可用於會計、金融甚至選舉中出現的數據。"
+      },
+      {
+        "key": "C",
+        "text": "可用於檢查某些公共計劃的經濟數據有否欺瞞。"
+      },
+      {
+        "key": "D",
+        "text": "可用於欺騙檢測和股票市場分析等領域。"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是。"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch05-q10",
+    "chapter": 5,
+    "chapterTitle": "分析資料",
+    "number": 10,
+    "question": "進行洗錢防制查核時，需檢核超過特定門檻的交易是否有申報，此金額可 能會隨著法令的調整而有所變動，請問使用ACL時，可以以下列何種方 式處理較佳？",
+    "options": [
+      {
+        "key": "A",
+        "text": "重新進行一次完整查核流程"
+      },
+      {
+        "key": "B",
+        "text": "將金額設定成變數"
+      },
+      {
+        "key": "C",
+        "text": "定義一個新的欄位"
+      },
+      {
+        "key": "D",
+        "text": "將特定金額寫入程式中"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch06-q01",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 1,
+    "question": "針對2000年應收帳款資料明細檔，想從中挑選出到期日（Due_Date）在三月份 及六月份到期者，應收帳款金額（Amount）在3,000元以上之交易記錄，請問 在Filter中應輸入之條件為何？",
+    "options": [
+      {
+        "key": "A",
+        "text": "( Between ( Due_Date , '20000301' , '20000331 ') AND Between ( Due_Date,'20000601','20000630')) AND Amount > 3000"
+      },
+      {
+        "key": "B",
+        "text": "Between ( Due_Date , '20000301' , '20000301') OR ( Between ( Due_Date,'20000601','20000630' ) AND Amount > 3000)"
+      },
+      {
+        "key": "C",
+        "text": "Between ( Due_Date,`20000301`,`20000630`) AND Amount > 3000"
+      },
+      {
+        "key": "D",
+        "text": "( Between ( Due_Date , '20000301' , '20000331' ) OR Between ( Due_Date,'20000601','20000630' ) ) AND Amount > 3000"
+      },
+      {
+        "key": "E",
+        "text": "Between ( Due_Date , ' 20000301 ' , ' 20000331 ' ) AND Between ( Due_Date,'20000601','20000630' ) AND Amount > 3000"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch06-q02",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 2,
+    "question": "國 內某一 知名量 販店希望 彙總出 各店銷 售數量最 大的商品，請 問要使用 ACL 那些指令才能達成？",
+    "options": [
+      {
+        "key": "A",
+        "text": "先用Summarize指令依照產品代號彙總產品數量，再用Sort指令按照 產品數量由大到小排序"
+      },
+      {
+        "key": "B",
+        "text": "先用Sort指令依照分店及產品數量排序，再用Summarize指令依分店 彙總，並同時列出產品代號及產品數量"
+      },
+      {
+        "key": "C",
+        "text": "先用Sort指令依照產品代號及產品數量排序，再用Summarize指令依 產品代號彙總，並同時列出產品數量"
+      },
+      {
+        "key": "D",
+        "text": "先用Summarize指令依照分店彙總產品數量，再用Sort指令按照產品 代號及產品數量排序"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch06-q03",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 3,
+    "question": "當使用Sort指令對100Mb資料檔案進行排序時，其所需要額外的磁碟空間要有 多大？",
+    "options": [
+      {
+        "key": "A",
+        "text": "100Mb"
+      },
+      {
+        "key": "B",
+        "text": "250Mb ~ 300Mb"
+      },
+      {
+        "key": "C",
+        "text": "50Mb ~ 150Mb"
+      },
+      {
+        "key": "D",
+        "text": "100Mb ~ 200Mb"
+      },
+      {
+        "key": "E",
+        "text": "150Mb"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch06-q04",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 4,
+    "question": "萃取指令的使用，以下何者為非？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Record"
+      },
+      {
+        "key": "B",
+        "text": "View"
+      },
+      {
+        "key": "C",
+        "text": "Field"
+      },
+      {
+        "key": "D",
+        "text": "Table"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch06-q05",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 5,
+    "question": "下列敘述何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "企業之電腦備援計畫應包括災變後以異地備援之硬體設施處理企業"
+      },
+      {
+        "key": "B",
+        "text": "成功之資訊系統開發應包括資訊科技人員及非資訊科技人員之組合"
+      },
+      {
+        "key": "C",
+        "text": "資訊長應直接向高階管理人員及董事會報告"
+      },
+      {
+        "key": "D",
+        "text": "程式設計師應可以接觸電腦作業系統以便及時有效解決使用者問題"
+      },
+      {
+        "key": "E",
+        "text": "程式設計師不應使用內部正式資料進行開發，確保個人資料保護"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch06-q06",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 6,
+    "question": "有關電腦審計的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "電腦資訊系統的一般控制，通常包括組織"
+      },
+      {
+        "key": "B",
+        "text": "在電腦資訊系統環境下，查核工作之目的與範圍是不會改變的"
+      },
+      {
+        "key": "C",
+        "text": "確保輸出結果及時提供給授權人員屬於電腦資訊系統的一般控制目的"
+      },
+      {
+        "key": "D",
+        "text": "電腦資訊系統環境之內部控制可分為一般控制及應用控制，其相關控制 均可包括人工及程式化之控制程序"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch06-q07",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 7,
+    "question": "下列有關會計師以測試資料法（test data）來測試電腦化會計系統的敘述，何者 正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "測試資料必須包括所有可能的狀況，有內部控制有效的狀況，也有內部 控制無效的狀況"
+      },
+      {
+        "key": "B",
+        "text": "用來測試的程式和受查客戶實際使用的程式是不同的"
+      },
+      {
+        "key": "C",
+        "text": "測試資料必須包含各個交易循環，每個循環都各選數筆交易"
+      },
+      {
+        "key": "D",
+        "text": "測試資料法必須在會計師的控制與監督之下，由受查客戶之資訊部門人 員進行"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch06-q08",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 8,
+    "question": "國內某一銀 行希望彙 總 出各分行銷 售金額最 大 的理財商品 ，請問要 使 用 ACL那些指令才能達成？",
+    "options": [
+      {
+        "key": "A",
+        "text": "依分行與商品代號彙總銷售金額後，先用Sort指令依照分行及銷售 金額排序（由大到小）後，再用Summarize指令依分行彙總，並同 時列出商品代號及銷售金額"
+      },
+      {
+        "key": "B",
+        "text": "依分行與商品代號彙總銷售金額後，先用Sort指令依照分行及銷售 金額排序（由小到大）後，再用Summarize指令依分行彙總，並同 時列出商品代號及銷售金額"
+      },
+      {
+        "key": "C",
+        "text": "依分行與商品代號彙總銷售金額，先用Sort指令依照分行及銷售金 額排序（由大到小）後，再用Classify指令依分行彙總，並同時列 出商品代號及銷售金額"
+      },
+      {
+        "key": "D",
+        "text": "依分行彙總銷售金額後，用Sort指令依照銷售金額排序（由大到小） 後，再用Summarize指令依商品代號彙總，並列出銷售金額"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch06-q09",
+    "chapter": 6,
+    "chapterTitle": "協助規劃與整理資料的指令應用",
+    "number": 9,
+    "question": "內部稽核希望查核貸款是否有充足的抵押擔保，並根據最近的付款日期進 行適當分類，劃分流動和非流動。為實現這些審計目標，請選出最佳的審 計程式：",
+    "options": [
+      {
+        "key": "A",
+        "text": "抽取超過一定限額的一組貸款樣本，確定是否屬流動性並正確分類， 對每筆經批准的貨款，證實其年限和分類"
+      },
+      {
+        "key": "B",
+        "text": "對所有貸款申請進行發現抽樣，確定是否每個申請都附有抵押聲明 書"
+      },
+      {
+        "key": "C",
+        "text": "選取貸款支付的樣本，追查至原貸款，確認這些支付是否都經過適 當申請手續，並對申請進行審查以確定是否有適當的抵押"
+      },
+      {
+        "key": "D",
+        "text": "使用通用審計軟體讀取貸款總檔，根據付款日期來劃分其流動性， 審查每項貸款是否正確進行抵押和分類"
+      },
+      {
+        "key": "E",
+        "text": "使用通用審計軟體讀取貸款總檔，根據最近一次付款日期劃分其流 動性，並按流動和非流動進行分層統計抽樣。審查抽取到的每項貸 款是否正確進行抵押擔保與分類"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch07-q01",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 1,
+    "question": "右列ACL Join指令之使用規則中，何者為真：",
+    "options": [
+      {
+        "key": "A",
+        "text": "兩個要連結的資料表（Table）必須要在相同的專案（Project）裡"
+      },
+      {
+        "key": "B",
+        "text": "兩個要連結的資料表（Table），至少要有一個共同的Key相連"
+      },
+      {
+        "key": "C",
+        "text": "兩個資料表所連結的Key欄位型態要相同"
+      },
+      {
+        "key": "D",
+        "text": "兩個資料表所連結的Key欄位長度要相同"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch07-q02",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 2,
+    "question": "Relation指令是Join指令的哪一種合併型態？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Matched Records"
+      },
+      {
+        "key": "B",
+        "text": "Unmatched Records"
+      },
+      {
+        "key": "C",
+        "text": "Matched Records，All Primary Records"
+      },
+      {
+        "key": "D",
+        "text": "Matched Records，All Secondary Records"
+      },
+      {
+        "key": "E",
+        "text": "Matched Records，All Primary and All Secondary Records"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch07-q03",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 3,
+    "question": "陳稽核打算利用ACL查核客戶應收帳款餘額是否超過信用額度，他已在ACL 中定義應收帳款明細檔及客戶基本檔（含信用額度），請問陳稽核應該何在 ACL專案中，採用那些指令進行分析？",
+    "options": [
+      {
+        "key": "A",
+        "text": "關聯指令（Relate），彙總指令（Summarize）和篩選器（Filter）"
+      },
+      {
+        "key": "B",
+        "text": "分類指令（Classify），運算式（Expression）和彙總指令（Summarize）"
+      },
+      {
+        "key": "C",
+        "text": "分層（Stratify），運算式（Expression）和比對指令（Join）"
+      },
+      {
+        "key": "D",
+        "text": "比對指令（Join），分類指令（Classify）和運算式（Expression）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch07-q04",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 4,
+    "question": "哪一項是對Relate指令使用規則的敘述是正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "可以跨專案連結Table資料"
+      },
+      {
+        "key": "B",
+        "text": "兩個Table可以連結一個以上的關鍵欄位（Key Field）"
+      },
+      {
+        "key": "C",
+        "text": "關鍵欄位（Key Field）型態限定文字型（Character）"
+      },
+      {
+        "key": "D",
+        "text": "聯結關係被儲存在Parent Table內"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch07-q05",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 5,
+    "question": "請選擇下列哪些指令沒有Presort功能？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Report"
+      },
+      {
+        "key": "B",
+        "text": "Summarize"
+      },
+      {
+        "key": "C",
+        "text": "Join"
+      },
+      {
+        "key": "D",
+        "text": "Gap"
+      },
+      {
+        "key": "E",
+        "text": "Classify"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch07-q06",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 6,
+    "question": "在電腦化的薪資系統中，雖然製成品部門員工經核准之工資率是每小時$7.15， 但是每一個員工都領到每小時$7.45的工資。下列何項內部控制可以最有效地 偵測出此項錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "限制可以接觸到人事部門薪資率檔案之人員的存取控制（access control）"
+      },
+      {
+        "key": "B",
+        "text": "由部門領班覆核所有已核准薪資率之變動"
+      },
+      {
+        "key": "C",
+        "text": "使用部門之批次控制（batch control）"
+      },
+      {
+        "key": "D",
+        "text": "使用限額測試（limit test），比較每一個部門的薪資率與所有員工的最高 薪資率"
+      },
+      {
+        "key": "E",
+        "text": "嵌入稽核控制點，針對超出法定加班時數的員工產出警示報表"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch07-q07",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 7,
+    "question": "一家郵購零售商透過商品目錄銷售複雜的電子設備。銷售員由電話接受訂單， 再將訂單資料藉由電腦終端機傳送到公司的總倉庫，進行訂單處理、送貨，以 及開立發票。下列何者為確保揀選和運送正確存貨項目的最有效控制程序？",
+    "options": [
+      {
+        "key": "A",
+        "text": "在顧客的帳戶編號中使用自動核對碼（self-checking digit）"
+      },
+      {
+        "key": "B",
+        "text": "在電話中與顧客口頭核對有關零件的描述和價格"
+      },
+      {
+        "key": "C",
+        "text": "銷貨訂單的處理人員在處理訂單之前，先行驗證訂單上的項目 是否有庫存"
+      },
+      {
+        "key": "D",
+        "text": "使用批次控制（batch control）來調節經由終端機訂購的總金額 和同期間存貨檔案中所記錄的總金額"
+      },
+      {
+        "key": "E",
+        "text": "接受訂單後提供訂購明細給客戶。"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch07-q08",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 8,
+    "question": "下列何者不是適當使用一般通用審計軟體（generalized audit software）的方式？",
+    "options": [
+      {
+        "key": "A",
+        "text": "編製應收帳款帳齡分析表"
+      },
+      {
+        "key": "B",
+        "text": "讀取完整的主檔，以進行全面的完整性複核"
+      },
+      {
+        "key": "C",
+        "text": "讀取檔案，並選取金額超過$5,000和逾期30天以上的應收帳款 交易，以進行後續的查核分析"
+      },
+      {
+        "key": "D",
+        "text": "產生可以交由整體測試法（integrated test facility）繼續處理的 交易"
+      },
+      {
+        "key": "E",
+        "text": "驗證資料完整性及正確性"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch07-q09",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 9,
+    "question": "如何進行幽靈客戶查核？",
+    "options": [
+      {
+        "key": "A",
+        "text": "以訂單檔為主檔比對（Join）客戶資料檔將有比對到（Matched）的列 出來"
+      },
+      {
+        "key": "B",
+        "text": "以客戶資料檔為主檔比對 （Join）訂單檔將有比對到（Matched）的列 出"
+      },
+      {
+        "key": "C",
+        "text": "以客戶資料檔為主檔比對（Join）訂單檔將有未比對到（Unmatched） 的列出"
+      },
+      {
+        "key": "D",
+        "text": "以訂單檔為主檔比對（Join）客戶資料檔將未比對到（Unmatched）的 列出來"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch07-q10",
+    "chapter": 7,
+    "chapterTitle": "多表格間資料查核分析",
+    "number": 10,
+    "question": "想從薪資發放檔與員工主檔中查核薪資是否正確發放，可透過以下何方式 進行？",
+    "options": [
+      {
+        "key": "A",
+        "text": "以薪資發放檔為主檔，比對（JOIN）員工主檔，使用All Primary and Secondary將需要欄位帶出後，再透過運算式計算差異數"
+      },
+      {
+        "key": "B",
+        "text": "以員工主檔為主檔，比對（JOIN）薪資發放檔，使用All Primary and Secondary將需要欄位帶出後，再透過運算式計算差異數"
+      },
+      {
+        "key": "C",
+        "text": "以薪資發放檔為主檔，比對（JOIN）員工主檔，使用Match Primary and Secondary將需要欄位帶出後，再透過運算式計算差異數"
+      },
+      {
+        "key": "D",
+        "text": "以員工主檔為主檔，勾稽（Relate）薪資發放檔後帶出需要欄位，再透 過運算式計算差異數"
+      },
+      {
+        "key": "E",
+        "text": "以上皆可"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch08-q01",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 1,
+    "question": "下列何者非ACLProject之組成項目？",
+    "options": [
+      {
+        "key": "A",
+        "text": "資料表（Table）"
+      },
+      {
+        "key": "B",
+        "text": "批次作業（Scripts）"
+      },
+      {
+        "key": "C",
+        "text": "資料夾（Folder）"
+      },
+      {
+        "key": "D",
+        "text": "工作區（Workspaces）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆為ACL Project之組成項目"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch08-q02",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 2,
+    "question": "以下哪一個符合Export指令匯出的檔案格式？",
+    "options": [
+      {
+        "key": "A",
+        "text": "SAS"
+      },
+      {
+        "key": "B",
+        "text": "PDF"
+      },
+      {
+        "key": "C",
+        "text": "HTML"
+      },
+      {
+        "key": "D",
+        "text": "dBase"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch08-q03",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 3,
+    "question": "哪一個是演算欄位（Computed Field）可以執行的功能？",
+    "options": [
+      {
+        "key": "A",
+        "text": "算術運算（Mathematical）"
+      },
+      {
+        "key": "B",
+        "text": "欄位型態轉換（Conversion）"
+      },
+      {
+        "key": "C",
+        "text": "字串替換（Word substitution）"
+      },
+      {
+        "key": "D",
+        "text": "邏輯（logical）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch08-q04",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 4,
+    "question": "在ACL中，哪項指令無法產生分析圖表？",
+    "options": [
+      {
+        "key": "A",
+        "text": "分層（Stratify）"
+      },
+      {
+        "key": "B",
+        "text": "分類（Classify）"
+      },
+      {
+        "key": "C",
+        "text": "帳齡（Age）"
+      },
+      {
+        "key": "D",
+        "text": "彙總（Summarize）"
+      },
+      {
+        "key": "E",
+        "text": "班佛（Benford）"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch08-q05",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 5,
+    "question": "ACL可將的資料匯出至其他軟體系統的檔案格式，以下何者為真？",
+    "options": [
+      {
+        "key": "A",
+        "text": "dBase"
+      },
+      {
+        "key": "B",
+        "text": "Lotus"
+      },
+      {
+        "key": "C",
+        "text": "Excel"
+      },
+      {
+        "key": "D",
+        "text": "Word"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch08-q06",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 6,
+    "question": "以下哪一個符合Report指令匯出的檔案格式？",
+    "options": [
+      {
+        "key": "A",
+        "text": "SAS"
+      },
+      {
+        "key": "B",
+        "text": "PDF"
+      },
+      {
+        "key": "C",
+        "text": "HTML"
+      },
+      {
+        "key": "D",
+        "text": "dBase"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch08-q07",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 7,
+    "question": "要在目前的ACL專案中使用另一ACL專案的Table，下列何者為最佳的程序？",
+    "options": [
+      {
+        "key": "A",
+        "text": "在另一ACL專案的表格先使用Export 匯出成一資料檔；然後在目前的專 案使用IMPORT 指令匯入此資料檔成為新Table"
+      },
+      {
+        "key": "B",
+        "text": "在目前的ACL專案直接使用 Link to New Source Data 連到所對應另一 ACL專案的資料.FIL 檔即可"
+      },
+      {
+        "key": "C",
+        "text": "在另一ACL專案中使用COPY的方式，然後在目前的專案使用PASTE 方式將所要用的TABLE資料匯入"
+      },
+      {
+        "key": "D",
+        "text": "在目前ACL專案選擇Copy from Another Project→Table選擇匯入另一 ACL專案的表格；然後在目前ACL專案使用 Link to New Source Data連 到所對應另一ACL專案的資料.FIL 檔即可"
+      },
+      {
+        "key": "E",
+        "text": "在另一ACL專案選擇Copy from Another Project→Table選擇匯出到目前 ACL專案；然後在目前ACL專案使用 Link to New Source Data連到所對 應另一ACL專案的資料.FIL檔即可"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch08-q08",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 8,
+    "question": "要如何知道目前ACL專案內的表格的資料來源檔？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Table Layout功能可以看到連結來源資料檔"
+      },
+      {
+        "key": "B",
+        "text": "Table Properties功能可以看到連結來源資料檔"
+      },
+      {
+        "key": "C",
+        "text": "Options功能可以看到連結來源資料檔"
+      },
+      {
+        "key": "D",
+        "text": "Notes功能可以看到連結來源資料檔"
+      },
+      {
+        "key": "E",
+        "text": "Verify功能可以看到連結來源資料檔"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch08-q09",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 9,
+    "question": "如何在ACL中產生多行報表（Multiline Report）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "使用滑鼠拉大View的標題行間距，然後移入所要顯示的欄即可"
+      },
+      {
+        "key": "B",
+        "text": "使用 Report 功能內選擇 Double Spaced 或 Triple Spaced"
+      },
+      {
+        "key": "C",
+        "text": "使用 Report 功能內選擇 Suppress Blank Detail Lines"
+      },
+      {
+        "key": "D",
+        "text": "使用 Modify Column 功能內的 Print Options下選擇 Sort Key Column"
+      },
+      {
+        "key": "E",
+        "text": "使用 Modify Column 功能內的 Print Options下選擇 Suppress Duplicates"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch08-q10",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 10,
+    "question": "在ACL中資料檢視窗最左邊有一條粗黑線，請問下列何者為非？",
+    "options": [
+      {
+        "key": "A",
+        "text": "稱為主鍵欄位記號線"
+      },
+      {
+        "key": "B",
+        "text": "可以利用游標將它拖曳到群組欄行的右邊，即為設定群組欄行的作業"
+      },
+      {
+        "key": "C",
+        "text": "可以使用 Modify Column 功能內的 Print Options下選擇 Sort Key Column與 Break Column，也可以設定群組欄行的作業"
+      },
+      {
+        "key": "D",
+        "text": "群組欄行不適用於數值型態欄位"
+      },
+      {
+        "key": "E",
+        "text": "群組欄行適用於文字型態欄位及日期型態欄位"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch08-q11",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 11,
+    "question": "保險是非常龐大的行業，每年的保險費都相當可觀，因此可能會有舞弊或濫用 的情形發生，下列何者非相關稽核人員應進行的查核目標？",
+    "options": [
+      {
+        "key": "A",
+        "text": "分析總帳帳戶餘額"
+      },
+      {
+        "key": "B",
+        "text": "理賠帳戶使用與保險人員相同之銀行帳戶"
+      },
+      {
+        "key": "C",
+        "text": "比對SSN死亡名單，確保未向死者進行理賠"
+      },
+      {
+        "key": "D",
+        "text": "保單資料中持有人的性別異動"
+      },
+      {
+        "key": "E",
+        "text": "不同客戶卻使用相同銀行帳戶"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch08-q12",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 12,
+    "question": "為了落實社會福利政策，政府針對低收入的個人或家庭之租屋提供經濟援助， 如何防止有心人士鑽取法律漏洞，造成計畫基金的流失，為稽核人員的一大 課題，下列查核目標何者為非？",
+    "options": [
+      {
+        "key": "A",
+        "text": "將租戶的收入與平均收入進行比較，找出任何異常值"
+      },
+      {
+        "key": "B",
+        "text": "同一個租戶在同一個月向同一位房東有多次付款紀錄"
+      },
+      {
+        "key": "C",
+        "text": "房屋租金較同區域之平均值高"
+      },
+      {
+        "key": "D",
+        "text": "房東在一年內多次增加租金的情況"
+      },
+      {
+        "key": "E",
+        "text": "房東貸款紀錄查核"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch08-q13",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 13,
+    "question": "查核人員於查核財務報表時，對存貨查核應取得足夠及適切證據時之考量，下 列敘述何者錯誤？【109年高等會計師考題改編】",
+    "options": [
+      {
+        "key": "A",
+        "text": "受查者採永續盤存制，對存貨變動內部控制之設計及執行有效，受查者非 於財務報導期間結束日執行存貨盤點，就查核目的而言應屬適當"
+      },
+      {
+        "key": "B",
+        "text": "若非於財務報導期間結束日執行存貨盤點，查核人員應執行盤點日與財務 報導期間結束日間存貨變動是否適當紀錄之查核"
+      },
+      {
+        "key": "C",
+        "text": "由第三方保管之存貨對財務報表係屬重大時，應由查核人員執行存貨盤點， 不能採用向第三方函證程序取得查核證據"
+      },
+      {
+        "key": "D",
+        "text": "因為新冠肺炎疫情影響，查核人員參與海外子公司存貨盤點實務上不可行， 可以執行替代查核程序以取得存貨存在及狀況之證據，例如檢查存貨之後 續銷售文件或存貨之進貨文件等"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch08-q14",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 14,
+    "question": "李稽核想了解銀行內是否有理專人員販售高風險之理財商品給70歲以上的客 戶，以利查核是否有不法利益勸說之情況。請問在ACL中需使用哪些指令可 以達成？",
+    "options": [
+      {
+        "key": "A",
+        "text": "勾稽指令（Relation）, 彙總指令（Summarize）和篩選器（Filter）"
+      },
+      {
+        "key": "B",
+        "text": "勾稽指令（Relation）, 運算式（Expression）和篩選器（Filter）"
+      },
+      {
+        "key": "C",
+        "text": "分層（Stratify）, 運算式（Expression）和比對指令（Join）"
+      },
+      {
+        "key": "D",
+        "text": "分類指令（Classify）, 運算式（Expression）和勾稽指令（Relation）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch08-q15",
+    "chapter": 8,
+    "chapterTitle": "資料瀏覽與報表製作",
+    "number": 15,
+    "question": "某銀行稽核單位想找出3月份行員在同一天對同一客戶進行5次（含）以上查 詢之動作，這些異常需列入監控清單。你已經獲得行內系統查詢登入檔，試 問ACL需使用哪些指令才可以達成？",
+    "options": [
+      {
+        "key": "A",
+        "text": "先用Sort指令依員工編號、客戶統編、查詢日期，再用Summarize依員工 編號、客戶統編、查詢日期做彙總，最後用Extract指令篩選次數>5次者"
+      },
+      {
+        "key": "B",
+        "text": "先用Sort指令依客戶統編、查詢日期，再用Summarize依員工編號、客戶 統編、查詢日期做彙總，最後用Extract指令篩選次數>5次者"
+      },
+      {
+        "key": "C",
+        "text": "先用Sort指令依員工編號、客戶統編、查詢日期，再用Summarize依員工 編號、客戶統編、查詢日期做彙總，最後用Extract指令篩選次數>=5次者"
+      },
+      {
+        "key": "D",
+        "text": "先用Summarize依員工編號、客戶統編、查詢日期做彙總，最後用Extract 指令篩選次數>=5次者"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch09-q01",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 1,
+    "question": "ACL 程式又稱呼為：",
+    "options": [
+      {
+        "key": "A",
+        "text": "PROGRAM"
+      },
+      {
+        "key": "B",
+        "text": "BATCH"
+      },
+      {
+        "key": "C",
+        "text": "SCRIPT"
+      },
+      {
+        "key": "D",
+        "text": "LANGUAGE"
+      },
+      {
+        "key": "E",
+        "text": "COMMAND。"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch09-q02",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 2,
+    "question": "電腦稽核人員在進行ACL Script 的設計，必須先考量下列幾項事情： I. 要查什麼 II. 有輸入那些資料 III. 如何辨識異常狀況 IV. 執行頻率 V. 誰負責執行與管理",
+    "options": [
+      {
+        "key": "A",
+        "text": "I、II、III"
+      },
+      {
+        "key": "B",
+        "text": "I、III、IV"
+      },
+      {
+        "key": "C",
+        "text": "I、II、III、IV"
+      },
+      {
+        "key": "D",
+        "text": "I、III、IV、V"
+      },
+      {
+        "key": "E",
+        "text": "I、II、III、IV、V"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch09-q03",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 3,
+    "question": "下列哪些是產生ACL SCRIPT的方法？ I. 使用語法捕捉器（Syntax Capture），來錄製ACL操作過程成為一新的 Script。 II. 從指令記錄檔（結果顯示頁籤）中，點選所需要的項目，存檔產生一新的 Script。 III. 從表格歷史（Table History）中，將此表格建立的指令，存檔產生一新的 Script。 IV. 使用ACL的Script編輯器，用人工撰寫方式一行一行的輸入ACL語法指令， 存檔產生一新的Script。 V. 使用Windows的記事本軟體，用人工撰寫方式一行一行的輸入ACL語法指 令，存檔產生一新的ASCII 編碼的文字擋成為一新的Script。",
+    "options": [
+      {
+        "key": "A",
+        "text": ". I、II、III"
+      },
+      {
+        "key": "B",
+        "text": ". II、III、IV"
+      },
+      {
+        "key": "C",
+        "text": ". I、II、III、IV"
+      },
+      {
+        "key": "D",
+        "text": ". I、III、IV、V"
+      },
+      {
+        "key": "E",
+        "text": ". I、II、III、IV、V"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch09-q04",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 4,
+    "question": "下列哪一個ACL函數為將日期欄位轉為文字欄位？",
+    "options": [
+      {
+        "key": "A",
+        "text": "DATETIME"
+      },
+      {
+        "key": "B",
+        "text": "CTOD"
+      },
+      {
+        "key": "C",
+        "text": "CDOT"
+      },
+      {
+        "key": "D",
+        "text": "CDATE"
+      },
+      {
+        "key": "E",
+        "text": "WORKDAY"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch09-q05",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 5,
+    "question": "下列哪一個ACL函數可將文字欄位的前後空白刪除？",
+    "options": [
+      {
+        "key": "A",
+        "text": "TRIM"
+      },
+      {
+        "key": "B",
+        "text": "ALLTRIM"
+      },
+      {
+        "key": "C",
+        "text": "BLANK"
+      },
+      {
+        "key": "D",
+        "text": "DELETE"
+      },
+      {
+        "key": "E",
+        "text": "RIGHT"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch09-q06",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 6,
+    "question": "要重複執行ACL SCRIPT時，系統會跳出一畫面詢問是否確認刪除某一檔案， 請問使用哪一個指令可讓系統不用再詢問而自動執行？",
+    "options": [
+      {
+        "key": "A",
+        "text": "SET EXACT ON"
+      },
+      {
+        "key": "B",
+        "text": "ESCAPE"
+      },
+      {
+        "key": "C",
+        "text": "SET SAFETY OFF"
+      },
+      {
+        "key": "D",
+        "text": "SET ECHO NONE"
+      },
+      {
+        "key": "E",
+        "text": "SET BELL OFF"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch09-q07",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 7,
+    "question": "下列何者非ACL的保留關鍵字？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ALL"
+      },
+      {
+        "key": "B",
+        "text": "AS"
+      },
+      {
+        "key": "C",
+        "text": "ASK"
+      },
+      {
+        "key": "D",
+        "text": "CANCEL"
+      },
+      {
+        "key": "E",
+        "text": "AND"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch09-q08",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 8,
+    "question": "下列哪些字母可以當成欄位名稱？",
+    "options": [
+      {
+        "key": "A",
+        "text": "F"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "T"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch09-q09",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 9,
+    "question": "在執行JOIN指令後，有時會出現”cannot be opened because it is already open as a secondary table “錯誤，請問該使用下列哪一個指令來避免此問題發生？",
+    "options": [
+      {
+        "key": "A",
+        "text": "CLOSE"
+      },
+      {
+        "key": "B",
+        "text": "CLOSE SEC"
+      },
+      {
+        "key": "C",
+        "text": "CANCEL"
+      },
+      {
+        "key": "D",
+        "text": "CANCEL SECONDARY"
+      },
+      {
+        "key": "E",
+        "text": "QUIT"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch09-q10",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 10,
+    "question": "下列表格Ap_Trans在執行完Running_Total的Script後將產出AP_Result表格，下 列何者為正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "AP_Result第一筆資料的小計欄位值為 0.00"
+      },
+      {
+        "key": "B",
+        "text": "AP_Result第一筆資料的小計欄位值為 540.00"
+      },
+      {
+        "key": "C",
+        "text": "AP_Result第二筆資料的小計欄位值為 6705.12"
+      },
+      {
+        "key": "D",
+        "text": "AP_Result第二筆資料的小計欄位值為 13705.12"
+      },
+      {
+        "key": "E",
+        "text": "AP_Result第三筆資料的小計欄位值為 15278.88"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch09-q11",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 11,
+    "question": "在餐飲服務業中，往往會利用有條件限制餐飲折扣來吸引消費者（如會員折扣 或指定信用卡），身為一位稽核人員，可以執行查核，防止員工濫用折扣給 予指定客戶或親友等舞弊情形發生，下列何者為非？",
+    "options": [
+      {
+        "key": "A",
+        "text": "特定類型折扣的使用，集中在某一員工中"
+      },
+      {
+        "key": "B",
+        "text": "折扣類型的費率在短期間內頻繁地更改"
+      },
+      {
+        "key": "C",
+        "text": "員工所給予的折扣是否高於規定之折扣金額"
+      },
+      {
+        "key": "D",
+        "text": "員工未經加班核准卻支領加班費"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch09-q12",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 12,
+    "question": "美國世界通訊（WorldCom）於2002年爆發財務造假，其造假手法之一是將成 本費用進行資本化，掩蓋不斷惡化的財務狀況，故從購入和折舊，到PPE的轉 移和處置都需進行把關，下列何者為此類查核之目標？",
+    "options": [
+      {
+        "key": "A",
+        "text": "維修或維護費用有過高或過低之情形"
+      },
+      {
+        "key": "B",
+        "text": "固定資產的耐用年限過低"
+      },
+      {
+        "key": "C",
+        "text": "資產的不當分類"
+      },
+      {
+        "key": "D",
+        "text": "針對折舊重新計算，查核有無錯誤之情形"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch09-q13",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 13,
+    "question": "查核時常需要採用機動日期進行，以避免人為操弄確保稽核有效性，以下哪個 指令或函式可協助進行？",
+    "options": [
+      {
+        "key": "A",
+        "text": "TODAY（ ）"
+      },
+      {
+        "key": "B",
+        "text": "CDOW（ ）"
+      },
+      {
+        "key": "C",
+        "text": "VALUE（ ）"
+      },
+      {
+        "key": "D",
+        "text": "STRING（ ）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch09-q14",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 14,
+    "question": "想查核個人電腦上是否有使用個資檔案，可透過以下何方式進行？",
+    "options": [
+      {
+        "key": "A",
+        "text": "以個資盤點表為主檔，比對（JOIN）個人電腦檔案，透過Matched primary and secondary將相同檔案名稱者列出來"
+      },
+      {
+        "key": "B",
+        "text": "以個人電腦檔案為主檔，比對（JOIN）個資盤點表，透過Matched primary and secondary將相同檔案名稱者列出來"
+      },
+      {
+        "key": "C",
+        "text": "以個人電腦檔案為主檔，比對（JOIN）個資盤點表，透過Unmatched primary將不同檔案名稱者列出來"
+      },
+      {
+        "key": "D",
+        "text": "以個資盤點表為主檔，比對（JOIN）個人電腦檔案，透過Unmatched primary將不同檔案名稱者列出來"
+      },
+      {
+        "key": "E",
+        "text": "以個人電腦檔案為主檔，比對（JOIN）個資盤點表，透過All primary and matched secondary將相同檔案名稱者列出來"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch09-q15",
+    "chapter": 9,
+    "chapterTitle": "Script基本觀念與撰寫方法",
+    "number": 15,
+    "question": "以下關於是否依規定辦理個資檔案銷毀查核之敘述何者為非？",
+    "options": [
+      {
+        "key": "A",
+        "text": "需要先了解個資檔案管理相關規定，包含存放期間與存放路徑、命名規則 等"
+      },
+      {
+        "key": "B",
+        "text": "個資檔案應永久保存並定期稽核，不能銷毀"
+      },
+      {
+        "key": "C",
+        "text": "可臨時抽查重要個資檔案伺服器或員工個人電腦，實際取得個人電腦檔案 清單並匯入電腦輔助稽核軟體中，分析查核是否逾期應該銷毀的個資檔案"
+      },
+      {
+        "key": "D",
+        "text": "可以使用TODAY( )函式，取代固定時間之稽核提高查核成效"
+      },
+      {
+        "key": "E",
+        "text": "GDPR新增規定被遺忘權，需要進行個資檔案銷毀相關查核"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch10-q01",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 1,
+    "question": "依據中華民國審計準則 531A號（ TWSA531A）「審計抽樣」之規定，查核人 員於設計查核樣本時，需要考慮： I、查核目的 II、可容忍誤差 III、錯誤的類型 IV、預期誤差。",
+    "options": [
+      {
+        "key": "A",
+        "text": "I、II、III"
+      },
+      {
+        "key": "B",
+        "text": "I、II、IV"
+      },
+      {
+        "key": "C",
+        "text": "II、III、IV"
+      },
+      {
+        "key": "D",
+        "text": "I、II、III、IV"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch10-q02",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 2,
+    "question": "根據中華民國審計準則公報規定第 531A號「審計抽樣」之規定，以下何者非 為審計抽樣中樣本量大小之影響因素？",
+    "options": [
+      {
+        "key": "A",
+        "text": "查核目的"
+      },
+      {
+        "key": "B",
+        "text": "可容忍偏差"
+      },
+      {
+        "key": "C",
+        "text": "錯誤的類型"
+      },
+      {
+        "key": "D",
+        "text": "預期偏差"
+      },
+      {
+        "key": "E",
+        "text": "信賴水準"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch10-q03",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 3,
+    "question": "在使用ACL執行統計抽樣的功能時，以下何者非為稽核人員應考慮而輸入到 ACL介面的資訊？",
+    "options": [
+      {
+        "key": "A",
+        "text": "抽樣風險（Sampling risk）"
+      },
+      {
+        "key": "B",
+        "text": "可容忍偏差（Materiality）"
+      },
+      {
+        "key": "C",
+        "text": "錯誤的類型（Error Type）"
+      },
+      {
+        "key": "D",
+        "text": "期望偏差（Expected Total Errors）"
+      },
+      {
+        "key": "E",
+        "text": "信賴水準（Confidence）"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch10-q04",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 4,
+    "question": "下列何者非稽核人員評估母體之預期偏差時可以使用的方法？",
+    "options": [
+      {
+        "key": "A",
+        "text": "依過往年度的樣本經驗值"
+      },
+      {
+        "key": "B",
+        "text": "本年度對控制之初步評估值"
+      },
+      {
+        "key": "C",
+        "text": "從試查的樣本求出預估值"
+      },
+      {
+        "key": "D",
+        "text": "依隨機的方式來設定"
+      },
+      {
+        "key": "E",
+        "text": "預期誤差應小於可容忍偏差"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch10-q05",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 5,
+    "question": "以下哪種情況適合使用元單位抽樣（Monetary Unit Sampling）而非屬性抽樣 （Attribute Sampling）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "當要檢查是否符合特定品質標準時"
+      },
+      {
+        "key": "B",
+        "text": "當目的是判斷是否存在重大金額錯誤時"
+      },
+      {
+        "key": "C",
+        "text": "當需要檢驗所有交易的相同特徵是否符合規範時"
+      },
+      {
+        "key": "D",
+        "text": "當重點在於檢查系統程序執行的正確性時"
+      },
+      {
+        "key": "E",
+        "text": "當需要評估某項目是否達到設定的合規比例時"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch10-q07",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 7,
+    "question": "哪一個指令是ACL上可以執行 WINDOWS 環境下的程式的指令？",
+    "options": [
+      {
+        "key": "A",
+        "text": "COMMAND"
+      },
+      {
+        "key": "B",
+        "text": "SET"
+      },
+      {
+        "key": "C",
+        "text": "RUN"
+      },
+      {
+        "key": "D",
+        "text": "EXECUTE"
+      },
+      {
+        "key": "E",
+        "text": "ACL 無此功能"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch10-q08",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 8,
+    "question": "以下關於在ACL上執行WINDOWS 指令的說明何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "可以使用同步與非同步模式來執行"
+      },
+      {
+        "key": "B",
+        "text": "預設是以同步模式執行"
+      },
+      {
+        "key": "C",
+        "text": "非同步執行須設定參數為NSYNC"
+      },
+      {
+        "key": "D",
+        "text": "非同步執行時任何執行的WINDOW指令必須在下一個ACL指令記錄檔前 完成"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch10-q09",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 9,
+    "question": "以下關於在ACL上執行EXCEL開啟T1.xlsx檔案的指令？",
+    "options": [
+      {
+        "key": "A",
+        "text": "EXCEL T1.xlsx；"
+      },
+      {
+        "key": "B",
+        "text": "CMD RUN EXCEL T1；"
+      },
+      {
+        "key": "C",
+        "text": "EXECUTE \"EXCEL T1.xlsx\";"
+      },
+      {
+        "key": "D",
+        "text": "RUN \"EXCEL T1.xlsx\"；"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch10-q10",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 10,
+    "question": "疑似洗錢防制（AML）為金融業熱門的查核議題，下列何者不是常見熱門查核議題？",
+    "options": [
+      {
+        "key": "A",
+        "text": "短時間內大量的將資金轉入及轉出"
+      },
+      {
+        "key": "B",
+        "text": "拆單購買查核"
+      },
+      {
+        "key": "C",
+        "text": "客戶交易模式有重大改變之情形"
+      },
+      {
+        "key": "D",
+        "text": "查核免於AML監控的客戶或帳戶"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是。"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch10-q11",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 11,
+    "question": "下列何者不得擔任案件品質管制複核人員？",
+    "options": [
+      {
+        "key": "A",
+        "text": "未參與該案件之同一事務所成員"
+      },
+      {
+        "key": "B",
+        "text": "未參與該案件之會計師"
+      },
+      {
+        "key": "C",
+        "text": "副簽之會計師"
+      },
+      {
+        "key": "D",
+        "text": "適當合格之外部人員"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是。"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch10-q12",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 12,
+    "question": "倘若發生個人資料外洩時，以下何者處理方式明顯錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "加強教育訓練"
+      },
+      {
+        "key": "B",
+        "text": "在規定時間內通報資料保護主管機關"
+      },
+      {
+        "key": "C",
+        "text": "舉證說明發生原因為組織內部故意或過失"
+      },
+      {
+        "key": "D",
+        "text": "銷毀外洩資料與相關軌跡"
+      },
+      {
+        "key": "E",
+        "text": "建立持續性監控與改善機制"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch10-q13",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 13,
+    "question": "為協助發展洗錢及資恐風險相當之防制措施，以利金融業進行適當內部控制資 源配置，應採取下列何者方法為之？",
+    "options": [
+      {
+        "key": "A",
+        "text": "準則方法"
+      },
+      {
+        "key": "B",
+        "text": "結果導向方法"
+      },
+      {
+        "key": "C",
+        "text": "規範基礎方法"
+      },
+      {
+        "key": "D",
+        "text": "風險基礎方法"
+      },
+      {
+        "key": "E",
+        "text": "事件導向方法"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch10-q14",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 14,
+    "question": "金融機構為確保應用程式之正確，下列敘述何者有缺失？",
+    "options": [
+      {
+        "key": "A",
+        "text": "程式之登錄及刪除均經申請核可及驗收程序"
+      },
+      {
+        "key": "B",
+        "text": "同一程式在程式館內之「原始碼」與「目的碼」內容不相符"
+      },
+      {
+        "key": "C",
+        "text": "具有修改資料、程式等功能之公用程式均嚴密管制使用"
+      },
+      {
+        "key": "D",
+        "text": "正式作業程式館（如系統程式）應定期或適時加以清理"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch10-q15",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 15,
+    "question": "以下關於在 ACL 上要串聯執行 Python，請問需要安裝哪一版的Python？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Python 1.0"
+      },
+      {
+        "key": "B",
+        "text": "Python 2.0"
+      },
+      {
+        "key": "C",
+        "text": "Python 3.0"
+      },
+      {
+        "key": "D",
+        "text": "Python 3.7以上32bits版"
+      },
+      {
+        "key": "E",
+        "text": "Python 3.7以上64bits版"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch10-q16",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 16,
+    "question": "以下哪一個非 ACL 上Python函式？",
+    "options": [
+      {
+        "key": "A",
+        "text": "PYDATE"
+      },
+      {
+        "key": "B",
+        "text": "PYDATETIME"
+      },
+      {
+        "key": "C",
+        "text": "PYNUMBER"
+      },
+      {
+        "key": "D",
+        "text": "PYSTRING"
+      },
+      {
+        "key": "E",
+        "text": "PYIMAGE"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch10-q17",
+    "chapter": 10,
+    "chapterTitle": "ACL進階技術探討",
+    "number": 17,
+    "question": "以下哪一個是我國最新有關審計抽樣的審計公報號碼？",
+    "options": [
+      {
+        "key": "A",
+        "text": "審計公報第20號"
+      },
+      {
+        "key": "B",
+        "text": "審計公報第26號"
+      },
+      {
+        "key": "C",
+        "text": "審計公報第43號"
+      },
+      {
+        "key": "D",
+        "text": "審計公報第49號"
+      },
+      {
+        "key": "E",
+        "text": "審計公報第531A號"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch11-q01",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 1,
+    "question": "下列何者非分類（CLASSIFICATION）培訓模型的評量指標？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ACCURACY"
+      },
+      {
+        "key": "B",
+        "text": "AUC"
+      },
+      {
+        "key": "C",
+        "text": "F1"
+      },
+      {
+        "key": "D",
+        "text": "R2"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch11-q02",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 2,
+    "question": "下列何者非迴歸（REGRESSION）培訓模型的評量指標？",
+    "options": [
+      {
+        "key": "A",
+        "text": "LOGLOSS"
+      },
+      {
+        "key": "B",
+        "text": "MAE"
+      },
+      {
+        "key": "C",
+        "text": "MSE"
+      },
+      {
+        "key": "D",
+        "text": "R2"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch11-q03",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 3,
+    "question": "ACL進行機器學習最大的資料量限制為何？",
+    "options": [
+      {
+        "key": "A",
+        "text": "10,000筆資料"
+      },
+      {
+        "key": "B",
+        "text": "1,000,000筆資料"
+      },
+      {
+        "key": "C",
+        "text": "100 M Bytes資料檔"
+      },
+      {
+        "key": "D",
+        "text": "1 G Bytes資料檔"
+      },
+      {
+        "key": "E",
+        "text": "無限制"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch11-q04",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 4,
+    "question": "ACL為強化機器學習的機制，如何分配訓練資料的時間？",
+    "options": [
+      {
+        "key": "A",
+        "text": "每分鐘10,000筆資料"
+      },
+      {
+        "key": "B",
+        "text": "每分鐘1,000,000筆資料"
+      },
+      {
+        "key": "C",
+        "text": "每100 K B資料檔分配45分鐘"
+      },
+      {
+        "key": "D",
+        "text": "每100 M B資料檔分配45分鐘"
+      },
+      {
+        "key": "E",
+        "text": "無任何機制"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch11-q05",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 5,
+    "question": "若想要預測未來的房屋價格，應使用ACL的哪一個機器學習指令？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Train 指令的CLASSIFICATION模式"
+      },
+      {
+        "key": "B",
+        "text": "Train 指令的REGRESSION模式"
+      },
+      {
+        "key": "C",
+        "text": "Train 指令的OUTLIER模式"
+      },
+      {
+        "key": "D",
+        "text": "Train 指令的Neural Network模式"
+      },
+      {
+        "key": "E",
+        "text": "目前ACL僅可以預測文字分類，無任何機制可以預測數值"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "ch11-q06",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 6,
+    "question": "關於 K 平均法（K-means）的分群，下列敘述何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "一開始不須告知該演算法欲分群的群數"
+      },
+      {
+        "key": "B",
+        "text": "每次分群結果必須讓組內平方和最大"
+      },
+      {
+        "key": "C",
+        "text": "每次分群的結果都一模一樣"
+      },
+      {
+        "key": "D",
+        "text": "容易受雜訊與離群值影響其群集中心"
+      },
+      {
+        "key": "E",
+        "text": "可以處理類別型資料"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch11-q07",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 7,
+    "question": "下列哪種方法可以避免機器學習模型過度擬合（Overfitting）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "選擇特徵（Feature Selection）"
+      },
+      {
+        "key": "B",
+        "text": "交叉驗證（Cross Validation）"
+      },
+      {
+        "key": "C",
+        "text": "對目標函數施加懲罰（Penalty）"
+      },
+      {
+        "key": "D",
+        "text": "增加使用的正規化（Normalization）數量"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "id": "ch11-q08",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 8,
+    "question": "關於集群分析（Clustering Analysis），下列敘述何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "依照相似度將資料分群"
+      },
+      {
+        "key": "B",
+        "text": "K-means 每次分群結果一定會相同"
+      },
+      {
+        "key": "C",
+        "text": "各群之間的相似度大"
+      },
+      {
+        "key": "D",
+        "text": "同一群內的相似度小"
+      },
+      {
+        "key": "E",
+        "text": "同樣的起始群集中心，可能會造成不同的分群結果"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch11-q09",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 9,
+    "question": "假設廣告推薦系統透過每次廣告的推薦，得到用戶是否點擊的資訊，後不斷 改進修正其策略以得到最佳的廣告推薦效果，則此廣告系統較適合採用下列 何種學習方法？",
+    "options": [
+      {
+        "key": "A",
+        "text": "監督式學習（Supervised Learning）"
+      },
+      {
+        "key": "B",
+        "text": "非監督式學習（Unsupervised Learning）"
+      },
+      {
+        "key": "C",
+        "text": "半監督式學習（Semi-supervised Learning）"
+      },
+      {
+        "key": "D",
+        "text": "增強式學習（Reinforcement Learning）"
+      },
+      {
+        "key": "E",
+        "text": "以上皆可"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "ch11-q10",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 10,
+    "question": "資料科學家經常使用多個演算法進行預測，並將多個機器學習演算法的輸出 結合起來，以獲得比所有個體模型都更好的更健壯的輸出。則下列說法何者 不正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "又稱為「整合學習」"
+      },
+      {
+        "key": "B",
+        "text": "基本模型之間相關性低"
+      },
+      {
+        "key": "C",
+        "text": "整合方法中，使用加權平均代替投票方法"
+      },
+      {
+        "key": "D",
+        "text": "基本模型來自於不同演算法"
+      },
+      {
+        "key": "E",
+        "text": "基本模型之間相關性低"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "ch11-q11",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 11,
+    "question": "ACL 和JCAATs 的AI稽核指令中，匯入機器學習知識模型以預測數據並 顯示可能性的指令名稱是什麼？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Predict"
+      },
+      {
+        "key": "B",
+        "text": "Outlier"
+      },
+      {
+        "key": "C",
+        "text": "Cluster"
+      },
+      {
+        "key": "D",
+        "text": "Train"
+      },
+      {
+        "key": "E",
+        "text": "以上皆非"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "ch11-q12",
+    "chapter": 11,
+    "chapterTitle": "機器學習在稽核的應用",
+    "number": 12,
+    "question": "JCAATs的AI稽核指令中，下面哪一個指令不是使用K-means值方式將 相似樣本依據其共同屬性資料聚集成群？",
+    "options": [
+      {
+        "key": "A",
+        "text": "CLUSTER"
+      },
+      {
+        "key": "B",
+        "text": "OUTLIER"
+      },
+      {
+        "key": "C",
+        "text": "TEXT CLUSTER"
+      },
+      {
+        "key": "D",
+        "text": "IMAGE CLUSTER"
+      },
+      {
+        "key": "E",
+        "text": "以上皆是"
+      }
+    ],
+    "answer": "B"
+  }
+]
