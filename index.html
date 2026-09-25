@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b2c36">
+  <meta name="description" content="把電腦審計題庫變成一場可以累積連勝、練成專長的刷題賽季。">
+  <title>稽核球場｜刷題人生</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230b2c36'/%3E%3Ccircle cx='16' cy='16' r='9' fill='%23f3ead3'/%3E%3Cpath d='M11 9c2 2 2 12 0 14M21 9c-2 2-2 12 0 14' fill='none' stroke='%23e45a3f' stroke-width='1.8' stroke-linecap='round' stroke-dasharray='2 2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="stadium-glow" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="稽核球場首頁">
+      <span class="brand-mark" aria-hidden="true">稽</span>
+      <span>
+        <strong>稽核球場</strong>
+        <small>刷題人生</small>
+      </span>
+    </a>
+    <div class="season-chip" aria-label="目前賽季">
+      <span class="live-dot"></span>
+      <span>SEASON 01</span>
+      <strong id="header-level">Lv. 1</strong>
+    </div>
+    <button class="icon-button" id="reset-button" type="button" aria-label="重置賽季" title="重置賽季">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 4v7h-7"/></svg>
+    </button>
+  </header>
+
+  <main class="game-shell">
+    <section class="scoreboard" aria-label="賽季戰績">
+      <div class="inning-label">
+        <span>本日局數</span>
+        <strong id="attempts-today">0</strong>
+      </div>
+      <div class="score-cell">
+        <span>AVG</span>
+        <strong id="accuracy-stat">.000</strong>
+        <small>打擊率</small>
+      </div>
+      <div class="score-cell accent">
+        <span>STREAK</span>
+        <strong id="streak-stat">0</strong>
+        <small>連勝</small>
+      </div>
+      <div class="score-cell">
+        <span>HIT</span>
+        <strong id="correct-stat">0</strong>
+        <small>答對</small>
+      </div>
+      <div class="score-cell">
+        <span>POOL</span>
+        <strong id="pool-stat">0</strong>
+        <small>在庫</small>
+      </div>
+      <div class="goal-cell">
+        <div class="goal-copy"><span>今日目標</span><strong id="goal-copy">0 / 10</strong></div>
+        <div class="goal-track" role="progressbar" aria-label="今日目標進度" aria-valuemin="0" aria-valuemax="10" aria-valuenow="0"><span id="goal-fill"></span></div>
+      </div>
+    </section>
+
+    <section class="play-grid">
+      <article class="question-card" id="question-card" aria-live="polite">
+        <div class="card-topline">
+          <div class="chapter-badge">
+            <span id="chapter-code">CH 01</span>
+            <strong id="chapter-title">ACL 電腦稽核軟體的第一印象</strong>
+          </div>
+          <span class="pitch-count" id="pitch-count">第 1 球</span>
+        </div>
+
+        <div class="question-stage" id="question-stage">
+          <p class="eyebrow">NEXT PITCH</p>
+          <h1 id="question-text">正在整理球場與題庫…</h1>
+          <div class="answer-list" id="answer-list" role="radiogroup" aria-label="答案選項"></div>
+        </div>
+
+        <div class="feedback-panel" id="feedback-panel" hidden>
+          <div class="feedback-icon" id="feedback-icon" aria-hidden="true"></div>
+          <div>
+            <p class="eyebrow" id="feedback-kicker">NICE HIT</p>
+            <h2 id="feedback-title">答對了</h2>
+            <p id="feedback-copy"></p>
+          </div>
+        </div>
+
+        <div class="decision-panel" id="decision-panel" hidden>
+          <button class="primary-action" id="master-button" type="button">
+            <span>收入名人堂</span>
+            <small>重置前不再出現</small>
+          </button>
+          <button class="secondary-action" id="return-button" type="button">
+            <span>留在練習池</span>
+            <small>之後可能再遇到</small>
+          </button>
+        </div>
+
+        <div class="next-panel" id="next-panel" hidden>
+          <button class="primary-action full" id="next-button" type="button">下一球</button>
+        </div>
+      </article>
+
+      <aside class="player-panel" aria-label="球員養成資訊">
+        <section class="player-card">
+          <div class="player-head">
+            <div class="avatar" aria-hidden="true"><span>R</span></div>
+            <div>
+              <span class="role">ROOKIE AUDITOR</span>
+              <h2>稽核練習生</h2>
+            </div>
+            <div class="level-badge" id="level-badge">01</div>
+          </div>
+
+          <div class="xp-row">
+            <div><span>經驗值</span><strong id="xp-copy">0 / 100 XP</strong></div>
+            <div class="xp-track"><span id="xp-fill"></span></div>
+          </div>
+
+          <dl class="career-stats">
+            <div><dt>出賽</dt><dd id="career-attempts">0</dd></div>
+            <div><dt>最高連勝</dt><dd id="best-streak">0</dd></div>
+            <div><dt>名人堂</dt><dd id="mastered-count">0</dd></div>
+          </dl>
+        </section>
+
+        <section class="pool-card">
+          <div class="section-heading">
+            <div>
+              <span>題庫調度</span>
+              <h3>本局出題範圍</h3>
+            </div>
+            <span class="pool-total" id="pool-total">0 題</span>
+          </div>
+          <label class="select-label" for="chapter-select">章節</label>
+          <select id="chapter-select">
+            <option value="all">全章節隨機</option>
+          </select>
+          <p class="pool-note" id="pool-note">答錯自動回到練習池；答對後由你決定去留。</p>
+        </section>
+
+        <section class="legend-card">
+          <span class="mini-label">玩法</span>
+          <div><kbd>1–5</kbd><span>選擇答案</span></div>
+          <div><kbd>Enter</kbd><span>下一球</span></div>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <dialog id="reset-dialog">
+    <form method="dialog" class="dialog-card">
+      <span class="dialog-kicker">NEW SEASON</span>
+      <h2>要重置整個賽季嗎？</h2>
+      <p>所有戰績、連勝與名人堂標記都會清空，133 題會全部回到練習池。</p>
+      <div class="dialog-actions">
+        <button value="cancel" class="secondary-action" type="submit">先不要</button>
+        <button value="confirm" class="danger-action" type="submit">重置賽季</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
+
